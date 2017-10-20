@@ -1,0 +1,21 @@
+{
+  "name": "Starter Sass packege",
+  "version": "0.0.1",
+  "description": "Starting dev environment",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Davorin Prislin",
+  "devDependencies": {
+    "gulp-jshint": "^2.0.4",
+    "gulp-ruby-sass": "^2.1.1",
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-webserver": "^0.9.1",
+    "sass": "^1.0.0-beta.2"
+  }
+}
